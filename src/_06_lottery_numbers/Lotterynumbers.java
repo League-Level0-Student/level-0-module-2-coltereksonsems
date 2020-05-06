@@ -14,8 +14,8 @@ public class Lotterynumbers {
 		int Zierer =new Random().nextInt(11);
 		int Dinn =new Random().nextInt(11);
 		int Loof =new Random().nextInt(11);
-		String Mack="Here's your numbers !"+ Zyklon + Pinfari + Arrow + Zierer + Dinn + Loof;
-		JOptionPane.showMessageDialog(null, );
+		String Mack="Here's your numbers ! "+ Zyklon + Pinfari + Arrow + Zierer + Dinn + Loof;
+		JOptionPane.showMessageDialog(null,Mack );
 		
 		
 		
